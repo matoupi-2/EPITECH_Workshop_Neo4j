@@ -28,6 +28,7 @@ Once the import is finished, connect to the Neo4j browser; if the previous tasks
 # Step 4 : Cypher query language
 
 Perform your first queries via the terminal on Neo4j Browser in order to perform precise searches: 
+   
     - Change the colors / size and index of the nodes
     - Find the attributes/labels of each node
     - Search a particular actor or movie node
