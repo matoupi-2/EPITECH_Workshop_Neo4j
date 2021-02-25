@@ -49,7 +49,8 @@ In order to validate this workshop, you will need to save all your queries in a 
 
 
 Perform your first queries from the terminal on Neo4j Browser in order to perform precise searches: 
-    - 1) do a query that return all nodes in the graph
+   
+   - 1) do a query that return all nodes in the graph
    
      ![Screenshot](Screenshot1.png)
      
