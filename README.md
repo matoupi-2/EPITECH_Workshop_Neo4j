@@ -7,6 +7,8 @@ An introduction to the Cipher language will allow you to easily manipulate compl
 
 You can easily download Neo4j with the following link : https://go.neo4j.com/download-thanks.html?edition=community&release=4.0.5&flavour=unix&_ga=2.36738976.1299535582.1592250295-1630072274.1588668299
 
+Oracle JDK 11 is required to use Neo4j, be sure that the JAVA_HOME env variable is set correctly.
+
 # Step 2 : Implement a simple graph data model
 
 Download the following 3 files .csv at the root of the project :
@@ -23,7 +25,16 @@ You will use the flags --nodes for movies.csv and actors.csv and the flag --rela
 
 # Step 3 : Lancement de Neo4j
 
-Once the import is finished, connect to the Neo4j browser; if the previous tasks are successful you should see the graphical representation of your datas.
+Once the import is finished, connect to the Neo4j browser via the command line below:
+    
+    -./bin/neo4j start
+
+you should get from the console this response: 
+
+    -It is available at http://localhost:7474/
+
+if the previous tasks are successful you can connect to the Neo4j browser and you should see the graphical representation of your datas.
+(No need to authenticate, just skip this step)
 
 # Step 4 : Cypher query language
 
