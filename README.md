@@ -68,3 +68,8 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
  
     - 5) Make a query that return all movies published in 2003
 ![Screenshot](Screenshot5.png)
+
+
+# Step 6 : You shall not passed this step !
+
+import the lord of the rings csv files to Neo4j and feel free to make your own queries in order to manipulate the graph :)
