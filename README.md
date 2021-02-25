@@ -19,7 +19,7 @@ Download the following 3 files .csv at the root of the project :
     
 (these 3 files are schemas coming from a database, you can export your own dataset in csv format to import them in Neo4j)
 
-Then import the csv files in Neo4j via the binary neo4j-admin import.
+Then place the files into the import directory and import the csv files in Neo4j via the binary neo4j-admin import.
 You will use the flags --nodes for movies.csv and actors.csv and the flag --relationships for roles.csv.
 (Check that the Neo4j database is empty before doing the import :))
 
@@ -33,8 +33,9 @@ you should get from the console this response:
 
     -It is available at http://localhost:7474/
 
-if the previous tasks are successful you can connect to the Neo4j browser and you should see the graphical representation of your datas.
-(No need to authenticate, just skip this step)
+if the previous tasks are successful you can connect to the Neo4j browser.
+Neo4j browser will ask you to authenticate, you only need to write "neo4j" as username and password
+Then you should see the graphical representation of your datas ! 
 
 # Step 4 : Cypher query language
 
