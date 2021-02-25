@@ -10,6 +10,7 @@ You can easily download Neo4j with the following link : https://go.neo4j.com/dow
 # Step 2 : Implement a simple graph data model
 
 Download the following 3 files .csv at the root of the project :
+
     - movies.csv
     - actors.csv
     - roles.csv
