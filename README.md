@@ -66,4 +66,5 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
     
 ![Screenshot](Screenshot4.png)
  
-    - 5) Show all actors from the movie Matrix
+    - 5) Make a query that return all movies published in 2003
+![Screenshot](Screenshot5.png)
