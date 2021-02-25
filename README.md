@@ -23,7 +23,7 @@ Then import the csv files in Neo4j via the binary neo4j-admin import.
 You will use the flags --nodes for movies.csv and actors.csv and the flag --relationships for roles.csv.
 (Check that the Neo4j database is empty before doing the import :))
 
-# Step 3 : Lancement de Neo4j
+# Step 3 : Start Neo4j
 
 Once the import is finished, connect to the Neo4j browser via the command line below:
     
