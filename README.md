@@ -50,11 +50,14 @@ In order to validate this workshop, you will need to save all your queries in a 
 
 Perform your first queries from the terminal on Neo4j Browser in order to perform precise searches: 
    
-   - 1) do a query that return all nodes in the graph
+    - 1) do a query that return all nodes in the graph
    
-     ![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot1.png)
      
-    - 2) return a particular actor or movie node
+    - 2) do a query that return a particular actor or movie node
+
+![Screenshot](Screenshot2.png)
+
     - 3) Find a relationship between an actor and a movie
     - 4) View all movies featuring Keanu Reeves
     - 5) Show all actors from the movie Matrix
