@@ -1,0 +1,4 @@
+movieID:ID,title,year:int,:LABEL
+tt0193176,The Fellowship of the Ring,2001,Movie
+tt01931287,The Two Towers,2002,Movie;Sequel
+tt01931740,The Return of the King,2003,Movie;Sequel
