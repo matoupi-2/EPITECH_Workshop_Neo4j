@@ -58,6 +58,9 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
 
 ![Screenshot](Screenshot2.png)
 
-    - 3) Find a relationship between an actor and a movie
+    - 3) Find a relationship between an actor and movies he played in 
+ 
+![Screenshot](Screenshot3.png)
+
     - 4) View all movies featuring Keanu Reeves
     - 5) Show all actors from the movie Matrix
