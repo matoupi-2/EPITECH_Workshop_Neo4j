@@ -37,14 +37,21 @@ if the previous tasks are successful you can connect to the Neo4j browser.
 Neo4j browser will ask you to authenticate, you only need to write "neo4j" as username and password
 Then you should see the graphical representation of your datas ! 
 
-# Step 4 : Cypher query language
+# Step 4 : Discover Neo4j
 
-Perform your first queries via the terminal on Neo4j Browser in order to perform precise searches: 
-   
-    - Change the colors / size and index of the nodes
-    - Find the attributes/labels of each node
-    - Search a particular actor or movie node
-    - Find a relationship between an actor and a movie
-    - View all movies featuring Keanu Reeves
-    - Show all actors from the movie Matrix
- 
+Now that you are connected to Neo4j, feel free to take the time to discover the browser's possibilities (like change colors/size of nodes/ Find attributes/labels of each node).
+In the database information tab, you can filter the nodes by choosing options of display, you can also execute queries to modify the graph.
+
+# Step 5 : Cypher query language
+
+From now on, we will try to understand how to manipulate the graph, you will do your first queries in order to display the information you are interested in.
+In order to validate this workshop, you will need to save all your queries in a ".txt" file.
+
+
+Perform your first queries from the terminal on Neo4j Browser in order to perform precise searches: 
+    - 1) do a query that return all nodes in the graph
+     ![Screenshot](Screenshot1.png)
+    - 2) return a particular actor or movie node
+    - 3) Find a relationship between an actor and a movie
+    - 4) View all movies featuring Keanu Reeves
+    - 5) Show all actors from the movie Matrix
