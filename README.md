@@ -63,7 +63,7 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
  
 ![Screenshot](Screenshot3.png)
 
-     -4) Find all movies in which Laurence Fishburne played that have the label "Sequel".
+    - 4) Find all movies in which Laurence Fishburne played that have the label "Sequel".
  
 ![Screenshot](Screenshot6.png)
  
@@ -72,8 +72,19 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
 ![Screenshot](Screenshot4.png)
  
     - 6) Make a query that return all movies published in 2003
+    
 ![Screenshot](Screenshot5.png)
 
+    - 7) Create the Agent Smith node with labels: Character and Villain
+  
+ ![Screenshot](Screenshot7.png)
+ 
+    - 8) Create Relationship [ACTED_IN] between Agent Smith and the three movies he played in
+ 
+ ![Screenshot](Screenshot8.png)
+ 
+    - 9) Delete the Agent Smith (Because we don't want him in our graph)
+    
 
 # Step 6 : You shall not passed this step !
 
