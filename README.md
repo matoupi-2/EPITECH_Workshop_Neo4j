@@ -63,11 +63,15 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
  
 ![Screenshot](Screenshot3.png)
 
-    - 4) Make a query that return all actors that played in Matrix Reloaded
+     -4) Find all movies in which Laurence Fishburne played that have the label "Sequel".
+ 
+![Screenshot](Screenshot6.png)
+ 
+    - 5) Make a query that return all actors that played in Matrix Reloaded
     
 ![Screenshot](Screenshot4.png)
  
-    - 5) Make a query that return all movies published in 2003
+    - 6) Make a query that return all movies published in 2003
 ![Screenshot](Screenshot5.png)
 
 
