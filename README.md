@@ -54,7 +54,7 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
    
 ![Screenshot](Screenshot1.png)
      
-    - 2) Make a query that return a particular actor or movie node
+    - 2) Make a query that return a particular actor named Keanu Reeves
 
 ![Screenshot](Screenshot2.png)
 
