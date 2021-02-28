@@ -21,7 +21,9 @@ Download the following 3 files .csv at the root of the project :
 
 Then place the files into the import directory and import the csv files in Neo4j via the binary neo4j-admin import.
 You will use the flags --nodes for movies.csv and actors.csv and the flag --relationships for roles.csv.
-(Check that the Neo4j database is empty before doing the import :))
+(Check that the Neo4j database is empty before doing the import :)) : 
+
+./bin/neo4j-admin import --nodes ./import/actors.csv --nodes ./import/movies.csv  --relationships ./import/roles.csv 
 
 # Step 3 : Start Neo4j
 
