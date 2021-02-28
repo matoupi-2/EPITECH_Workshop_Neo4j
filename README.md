@@ -77,4 +77,4 @@ Perform your first queries from the terminal on Neo4j Browser in order to perfor
 
 # Step 6 : You shall not passed this step !
 
-import the lord of the rings csv files to Neo4j and feel free to make your own queries in order to manipulate the graph :)
+Clear the current database and import the lord of the rings csv files to Neo4j and feel free to make your own queries in order to manipulate the graph :)
