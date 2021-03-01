@@ -47,7 +47,6 @@ In the database information tab, you can filter the nodes by choosing options of
 # Step 5 : Cypher query language
 
 From now on, we will try to understand how to manipulate the graph, you will do your first queries in order to display the information you are interested in.
-In order to validate this workshop, you will need to save all your queries in a ".txt" file.
 
 I recommend you to tap ":play cypher" into the neo4j console to better understand how use cypher query.
 
